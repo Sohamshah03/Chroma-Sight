@@ -1,8 +1,1 @@
 "# Chroma-Sight" 
-"# Chroma-Sight" 
-"# ChromaSight" 
-"# ChromaSight" 
-"# ChromaSight" 
-"# ChromaSight" 
-"# Chroma-Sight" 
-"# Chroma-Sight" 
