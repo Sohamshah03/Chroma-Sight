@@ -28,6 +28,7 @@ This repo contains two core projects:
 ├── Mini Projects/
 ├   ├── ishihara.ipynb
 ├   ├── ripe-and-rotten.ipynb
+├   ├── Traffic Light Detection.ipynb
 ├  
 ├── YOLO/
 ├   ├── config.py
@@ -36,7 +37,6 @@ This repo contains two core projects:
 ├   ├── model.py
 ├   ├── train.py
 ├   ├── utils.py
-
 </code></pre>
 ## Table of Contents
 
