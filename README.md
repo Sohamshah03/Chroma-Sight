@@ -11,6 +11,7 @@ This repo contains two core projects:
    A YOLO-based model for detecting and classifying traffic signs. This project aims to aid autonomous driving systems or assistive technologies for colorblind or visually impaired people in recognizing traffic signs.
 
 ## File Structure
+
 <pre><code>Chroma-Sight/
 │
 ├── README.md
@@ -26,18 +27,11 @@ This repo contains two core projects:
 ├   ├── Stereo Inbuilt.py
 ├
 ├── Mini Projects/
-├   ├── ishihara.ipynb
-├   ├── ripe-and-rotten.ipynb
-├   ├── Traffic Light Detection.ipynb
-├  
-├── YOLO/
-├   ├── config.py
-├   ├── dataset.py
-├   ├── loss.py
-├   ├── model.py
-├   ├── train.py
-├   ├── utils.py
+    ├── ishihara.ipynb
+    ├── ripe-and-rotten.ipynb
+
 </code></pre>
+
 ## Table of Contents
 
 ## Tech Stack
@@ -90,9 +84,9 @@ Blind and visually impaired individuals face challenges in understanding visual 
 
 #### Outputs:
 
-<img src="image.png" alt="Flowchart" width="300" height="300">
-<img src="image-1.png" alt="Flowchart" width="300" height="300">
-<img src="image-2.png" alt="Flowchart" width="300" height="300">
+<img src="../ChromaSight/Images/Image Captioning/Image Captioning Output 1.jpg" alt="Flowchart" width="300" height="300">
+<img src="../ChromaSight/Images/Image Captioning/Image Captioning Output 2.jpg" alt="Flowchart" width="300" height="300">
+<img src="../ChromaSight/Images/Image Captioning/Image Captioning Output 3.jpg" alt="Flowchart" width="300" height="300">
 
 ### Applications:
 
@@ -126,18 +120,24 @@ Colorblind individuals often struggle to identify color-coded traffic signs, whi
 
 #### Outputs:
 
+<img src="../ChromaSight/Images/Traffic/Traffic Output 1.jpg" alt="Flowchart" width="300" height="300">
+<img src="../ChromaSight/Images/Traffic/Traffic Output 2.jpg" alt="Flowchart" width="300" height="300">
+<img src="../ChromaSight/Images/Traffic/Traffic Output 3.jpg" alt="Flowchart" width="300" height="300">
+
 ### Applications:
 
 - **Assistive Technology for Colorblind Individuals**: This model can be used in smart glasses, apps, or navigation systems to help colorblind users identify traffic signs, providing audio feedback through the gTTS API for safer navigation.
 - **Autonomous Driving**: The YOLOv8 model enhances self-driving cars' perception systems by accurately detecting and classifying traffic signs, enabling the vehicle to follow road rules in real time.
 
 ## Acknowledgements
+
 <ul>
   <li>We are grateful to <a href="https://github.com/CommunityOfCoders"/li>CoC VJTI</a> and the <a href="https://github.com/ProjectX-VJTI">Project X</a> programme.
-  <li>Special thanks to our mentors <a href="https://github.com/Anoushka1009">Anoushka Ruikar</a> and <a href="https://github.com/aditi.dhu">Aditi Dhumal</a> for perfectly mentoring and supporting us throughout.</li>
+  <li>Special thanks to our mentors <a href="https://github.com/Anoushka1009">Anoushka Ruikar</a> and <a href="https://github.com/aditidhu">Aditi Dhumal</a> for perfectly mentoring and supporting us throughout.</li>
   <li>Additionally, we are also thankful for all the Project X mentors for their inputs and advice on our project.</li>
 </ul>
 
 ## Contact
+
 <a href="https://github.com/KrishShah3011">Krish Shah</a> <br>
 <a href="https://github.com/Sohamshah03">Soham Shah</a>
