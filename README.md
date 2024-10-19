@@ -18,7 +18,7 @@ This repo contains two core projects:
 ├
 ├── Captioning/
 ├   ├── captureimageoakd.py
-├   ├── Image Captioning.py
+├   ├── Image Captioning.ipynb
 ├
 ├── Depth Perception/
 ├   ├── Depth Anything.py
@@ -56,8 +56,6 @@ This repo contains two core projects:
 
 
 </code></pre>
-
-## Table of Contents
 
 ## Tech Stack
 
