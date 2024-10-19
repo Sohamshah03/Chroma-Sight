@@ -27,8 +27,33 @@ This repo contains two core projects:
 ├   ├── Stereo Inbuilt.py
 ├
 ├── Mini Projects/
-    ├── ishihara.ipynb
-    ├── ripe-and-rotten.ipynb
+├   ├── ishihara.ipynb
+├   ├── ripe-and-rotten.ipynb
+├   ├── Traffic Ligth Detection.ipynb
+├ 
+├── YOLO/
+├   ├── config.py
+├   ├── dataset.py
+├   ├── loss.py
+├   ├── model.py
+├   ├── train.py
+├   ├── utils.py
+├
+├── Images/
+├   ├── Architecture Images/
+├   ├   ├── VGG 16.jpg
+├   ├   ├── VIT Architecture.jpg
+├   ├  
+├   ├── Images Captioning/
+├   ├   ├── Image Captioning Output 1.jpg
+├   ├   ├── Image Captioning Output 2.jpg
+├   ├   ├── Image Captioning Output 3.jpg
+├   ├  
+├   ├── Traffic/
+├   ├   ├── Traffic Output 1.jpg
+├   ├   ├── Traffic Output 2.jpg
+├   ├   ├── Traffic Output 3.jpg
+
 
 </code></pre>
 
@@ -80,13 +105,12 @@ Blind and visually impaired individuals face challenges in understanding visual 
 - Multiple Transformer Blocks are stacked in the decoder to refine the caption output.
   Attention Mechanism:
   Multi-head attention is applied within both the encoder (self-attention on image patches) and decoder (self-attention on the generated words and cross-attention to image features).
-  ![alt text](image-4.png)
 
 #### Outputs:
 
-<img src="../ChromaSight/Images/Image Captioning/Image Captioning Output 1.jpg" alt="Flowchart" width="300" height="300">
-<img src="../ChromaSight/Images/Image Captioning/Image Captioning Output 2.jpg" alt="Flowchart" width="300" height="300">
-<img src="../ChromaSight/Images/Image Captioning/Image Captioning Output 3.jpg" alt="Flowchart" width="300" height="300">
+<img src="Images/Image Captioning/Image Captioning Output 1.jpg" alt="Flowchart" width="300" height="300">
+<img src="Images/Image Captioning/Image Captioning Output 2.jpg" alt="Flowchart" width="300" height="300">
+<img src="Images/Image Captioning/Image Captioning Output 3.jpg" alt="Flowchart" width="300" height="300">
 
 ### Applications:
 
@@ -116,13 +140,12 @@ Colorblind individuals often struggle to identify color-coded traffic signs, whi
 
 - Post-Processing: After the predictions, non-maximum suppression (NMS) is used to filter out overlapping boxes, keeping only the ones with the highest confidence.
 
-![alt text](image-3.png)
 
 #### Outputs:
 
-<img src="../ChromaSight/Images/Traffic/Traffic Output 1.jpg" alt="Flowchart" width="300" height="300">
-<img src="../ChromaSight/Images/Traffic/Traffic Output 2.jpg" alt="Flowchart" width="300" height="300">
-<img src="../ChromaSight/Images/Traffic/Traffic Output 3.jpg" alt="Flowchart" width="300" height="300">
+<img src="Images/Traffic/Traffic Output 1.jpg" alt="Flowchart" width="300" height="300">
+<img src="Images/Traffic/Traffic Output 2.jpg" alt="Flowchart" width="300" height="300">
+<img src="Images/Traffic/Traffic Output 2.jpg" alt="Flowchart" width="300" height="300">
 
 ### Applications:
 
